@@ -1,0 +1,12 @@
+{
+    "alice": {
+        "contacts": [
+            "bob"
+        ],
+        "password": "qSXRvYhnfW8WVfei50qDj3ovpoirPzsUbyFYzHtvxnZs25W5P7baQaNeIHJwcaPt"
+    },
+    "bob": {
+        "contacts": [],
+        "password": "90xZ0WMtmwBg2zCWdSqe0OTXLA+omubj5U3s3jmiEIW7waeSPARPu1fQ91nCEDk3"
+    }
+}
